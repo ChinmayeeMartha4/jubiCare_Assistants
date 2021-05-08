@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b1431d13-9f01-4bce-aa34-4bae327b8689" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../RecyclerViewKotlin/RecyclerViewKotlin/.idea/.gitignore" afterDir="false" />
