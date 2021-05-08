@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.indev.jubicare_assistants">
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@drawable/app_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ForgetPassword"></activity>
+
+        <activity
+            android:name=".SearchByMobile"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+
+        <activity
+            android:name=".ChangePassword"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".Disclaimer"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".ContactUs"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+
+        <activity
+            android:name=".ViewPrescription"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+
+        <activity
+            android:name=".CommonProfile"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+
+        <activity
+            android:name=".PatientProfileList"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+
+        <activity
+            android:name=".SignUp"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+
+        <activity
+            android:name=".PatientFillAppointment"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+
+        <activity
+            android:name=".BookinlistActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+
+        <activity
+            android:name=".BookingActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+
+        <activity
+            android:name=".HomeActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+
+        <activity
+            android:name=".LoginAcivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable" />
+
+        <activity
+            android:name=".Splash_Screen"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            tools:ignore="Instantiatable">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

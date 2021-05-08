@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1431d13-9f01-4bce-aa34-4bae327b8689" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../RecyclerViewKotlin/RecyclerViewKotlin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerViewKotlin/RecyclerViewKotlin/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerViewKotlin/RecyclerViewKotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerViewKotlin/RecyclerViewKotlin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerViewKotlin/RecyclerViewKotlin/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skilled_ICRISAT-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Skilled_ICRISAT-master/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentOMR/app/src/main/java/com/example/studentomr/RadioCustomAdapter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sEpICq2UzPjp87KXxju3KFcioW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1431d13-9f01-4bce-aa34-4bae327b8689" name="Default Changelist" comment="" />
+      <created>1620447520737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620447520737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1620448122013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620448122013" />
+    <state x="533" y="292" key="Github.ShareDialog" timestamp="1620448561439">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="292" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1620448561439" />
+    <state x="488" y="110" key="Github.UntrackedFilesDialog" timestamp="1620448653974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1620448653974" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1620448466424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1620448466424" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1620447892995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1620447892995" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1620447899250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1620447899250" />
+  </component>
+</project>
